@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\bin\Debug\Checkers_Semenova.exe.config
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\bin\Debug\Checkers_Semenova.exe
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\bin\Debug\Checkers_Semenova.pdb
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.Form1.resources
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.Properties.Resources.resources
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.exe
+C:\Users\Дарья\source\repos\Checkers_Semenova\Checkers_Semenova\obj\Debug\Checkers_Semenova.pdb
